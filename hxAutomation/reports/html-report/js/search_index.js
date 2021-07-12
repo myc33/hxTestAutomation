@@ -1,0 +1,1 @@
+var index = {"Tags":{},"Specs":{"AutomationPractice_e2e":["specs/automationPractice_e2eTest.html"]}};
